@@ -1,0 +1,11 @@
+.selector {
+    border-color: black;
+    border-style:dashed;
+    border-width: 1px;
+    font-size: 15px;
+    height: 22px;
+}
+
+label {
+    font-size: 15px;
+}
